@@ -1,1 +1,8 @@
 lucky-word: Micro Services
+
+---
+
+spring:
+  profiles: custom
+
+luck-word: Custom
